@@ -1,0 +1,13 @@
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\bin\Release\netcoreapp3.1\AwsLambdaApi.Models.deps.json
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\bin\Release\netcoreapp3.1\AwsLambdaApi.Models.runtimeconfig.json
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\bin\Release\netcoreapp3.1\AwsLambdaApi.Models.runtimeconfig.dev.json
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\bin\Release\netcoreapp3.1\AwsLambdaApi.Models.dll
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\bin\Release\netcoreapp3.1\AwsLambdaApi.Models.pdb
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\obj\Release\netcoreapp3.1\AwsLambdaApi.Models.csproj.AssemblyReference.cache
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\obj\Release\netcoreapp3.1\AwsLambdaApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\obj\Release\netcoreapp3.1\AwsLambdaApi.Models.AssemblyInfoInputs.cache
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\obj\Release\netcoreapp3.1\AwsLambdaApi.Models.AssemblyInfo.cs
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\obj\Release\netcoreapp3.1\AwsLambdaApi.Models.csproj.CoreCompileInputs.cache
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\obj\Release\netcoreapp3.1\AwsLambdaApi.Models.dll
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\obj\Release\netcoreapp3.1\AwsLambdaApi.Models.pdb
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Models\obj\Release\netcoreapp3.1\AwsLambdaApi.Models.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\bin\Debug\netcoreapp3.1\AwsLambdaApi.Dal.deps.json
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\bin\Debug\netcoreapp3.1\AwsLambdaApi.Dal.dll
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\bin\Debug\netcoreapp3.1\AwsLambdaApi.Dal.pdb
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\bin\Debug\netcoreapp3.1\AwsLambdaApi.Models.dll
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\bin\Debug\netcoreapp3.1\AwsLambdaApi.Models.pdb
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\obj\Debug\netcoreapp3.1\AwsLambdaApi.Dal.csprojAssemblyReference.cache
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\obj\Debug\netcoreapp3.1\AwsLambdaApi.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\obj\Debug\netcoreapp3.1\AwsLambdaApi.Dal.AssemblyInfoInputs.cache
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\obj\Debug\netcoreapp3.1\AwsLambdaApi.Dal.AssemblyInfo.cs
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\obj\Debug\netcoreapp3.1\AwsLambdaApi.Dal.csproj.CoreCompileInputs.cache
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\obj\Debug\netcoreapp3.1\AwsLambdaApi.Dal.csproj.CopyComplete
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\obj\Debug\netcoreapp3.1\AwsLambdaApi.Dal.dll
+D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\obj\Debug\netcoreapp3.1\AwsLambdaApi.Dal.pdb

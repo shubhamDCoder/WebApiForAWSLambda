@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AwsLambdaApi.Dal
+build_property.ProjectDir = D:\code\AwsLambda\AwsLambdaAPI\AwsLambdaApi.Dal\
